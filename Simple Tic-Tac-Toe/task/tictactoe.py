@@ -1,3 +1,23 @@
+"""
+f - field
+// поле для игры в крестики-нолики
+
+ui - users_input
+// переменная для хранения ввода пользователя
+
+c - enter_cells
+// начальное значение ячеек, которое подается на ввод
+
+uX - users_input_X
+// ввод номера ячейки, в которую рользователь ставит Х
+
+uО - users_input_О
+// ввод номера ячейки, в которую рользователь ставит Х
+"""
+
+
+
+
 """ This program imitates tic-tac-toe game. Users should enter coordinates in 3x3 field
 depending where they would like to place their character one by one starting from X"""
 
